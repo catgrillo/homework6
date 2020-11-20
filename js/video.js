@@ -3,7 +3,6 @@ var slider;
 
 window.addEventListener("load", function() {
 	video = document.querySelector("#myVideo");
-	video.load();
 	slider = document.querySelector("#volumeSlider");
 });
 
